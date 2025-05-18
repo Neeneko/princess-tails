@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<HediffDef>
+		<defName>Hediff_HiddenPart</defName>
+		<label>No Part</label>
+		<description>Part is not here.</description>
+		<hediffClass>TailPatch.Hediff_HiddenPart</hediffClass>
+	</HediffDef>
+</Defs>
