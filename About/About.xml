@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<packageId>Neeneko.Tails</packageId>
+  <!-- content goes here -->
+<name>Princess Story - Tails</name>
+<author>Neeneko</author>
+<description>Support for Princess's story.</description>
+<supportedVersions>
+  <li>1.5</li>
+</supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>FS.ReviaRaceBiotech</packageId>
+      <displayName>Revia Race - biotech</displayName>
+	  <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2893157989</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>MoManaCha.Hoomancute</packageId>
+      <displayName>Hooman cute Recast</displayName>
+    </li>
+    <li>
+      <packageId>Inoshishi3.KTTFDE</packageId>
+      <displayName>Kurin, The Three Tailed Fox [Deluxe Edition]</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2670355481</steamWorkshopUrl>
+    </li>
+
+  </modDependencies>
+  <loadAfter>
+	<li>MoManaCha.Hoomancute</li>
+    <li>Inoshishi3.KTTFDE</li>
+	<li>FS.ReviaRaceBiotech</li>
+  </loadAfter>
+</ModMetaData>
