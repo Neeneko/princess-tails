@@ -4,5 +4,6 @@
     <li>/</li>
 	<li IfModActive="MoManaCha.Hoomancute">Hoomancute</li>
 	<li IfModActive="LanYv.HoomanCuteReborn">Hoomancute</li>
+	<li IfModActive="Nals.CompatibleBody2">NLCompatibleBody2</li>
   </v1.5>
 </loadFolders>
